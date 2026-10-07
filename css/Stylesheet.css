@@ -1,0 +1,9 @@
+h1{
+    color: rgb(255, 0, 0);
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: rgb(80, 132, 135);
+    color: rgb(0, 21, 255);
+}
