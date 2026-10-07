@@ -1,6 +1,6 @@
 # my project
 
-- Name: Mohamed Abdelaziz Saleh
+- Name: Mohamed Abdelaziz Saleh Abdelaziz
 - ID: 2427806
 - A Three-page website built with semantic HTML and CSS
 
